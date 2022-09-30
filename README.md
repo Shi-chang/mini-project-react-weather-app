@@ -4,7 +4,7 @@ Every time the user inputs a city name and clicks the search button, the app wil
 Besidse, every time the user searches for the weather condition of a city, a random picture with the theme of 'nature' from https://source.unsplash.com is generated as the background for the app.
 
 ## Demo of the app
-![Animation](https://user-images.githubusercontent.com/76865032/187529762-5e61dbec-e8fe-4bb1-afdf-098fff17be61.gif)
+![Animation](https://raw.githubusercontent.com/Shi-chang/project-react-weather-app/main/weather-app/src/weather-app.gif)
 
 # Acknowledgements:
 I would like to thank https://openweathermap.org/ and https://source.unsplash.com for providing the resources used in this application.
