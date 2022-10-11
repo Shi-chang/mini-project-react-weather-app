@@ -8,7 +8,7 @@
 2. More practice with making http requests and data parsing.
 3. More experience with BootStrap and Font Awesome.
 
-## Demo of the app
+# Demo of the app
 ![Animation](https://raw.githubusercontent.com/Shi-chang/project-react-weather-app/main/weather-app/src/weather-app.gif)
 
 # Acknowledgements:
